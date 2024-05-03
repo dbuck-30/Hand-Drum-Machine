@@ -1,5 +1,6 @@
 
-A Max/Msp patch that detects a right handed fist and a right handed open palm, uses cv.jit.faces to do so, triggers percussive sounds in Max/Msp and allows for playback via a pattern
+A Max/Msp patch that detects a right handed fist and a right handed open palm, uses cv.jit.faces to do so, triggers percussive sounds in Max/Msp and allows for playback by a pattern.
+Notice: when starting max/msp patch click the resize on the camera window
 
 Credit to xml files used https://github.com/Sandeep-Sthapit/HandGestureDetection/blob/master/README.md
 
